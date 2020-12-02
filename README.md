@@ -14,7 +14,7 @@
     
         it's about searching books using a google api and saving them in a database for later reference
     ## Installation:
-        https://google-books-api-uwu.herokuapp.com/
+        https://google-api-books-google.herokuapp.com//
     ## Usage:
         Click and and play, no sense sweating the simple stuff
     ## Contributing Party's
